@@ -1,5 +1,5 @@
 # 0x01. Git  
--Git -Code versioning -Github  
+- Git. Code versioning. Github  
   
 ## Learning Objectives  
 - What is source code management  
