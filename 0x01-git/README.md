@@ -1,5 +1,5 @@
 # 0x01. Git  
-- Git. Code versioning. Github  
+- **Git.** **Code versioning.** **Github**  
   
 ## Learning Objectives  
 - What is source code management  
@@ -17,3 +17,5 @@
 - How to merge branches  
 - How to work as collaborators on a project  
 - Which files should and which files should not appear in your repo  
+
+*Some changes*
